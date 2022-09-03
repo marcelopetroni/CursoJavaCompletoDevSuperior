@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\salaryChanges"
+		},
+		{
+			"path": "..\\notasAluno"
+		},
+		{
+			"path": "..\\conversãoDolar"
+		},
+		{
+			"path": "..\\saqueBanco"
+		},
+		{
+			"path": "..\\mediaPreçosVetor"
+		},
+		{
+			"path": "..\\alturaMedia"
+		},
+		{
+			"path": "..\\registroHotelVetor"
+		},
+		{
+			"path": "..\\salaryList"
+		},
+		{
+			"path": "..\\subtotalPedidos"
+		}
+	],
+	"settings": {}
+}
